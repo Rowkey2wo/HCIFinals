@@ -1,0 +1,68 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.bg {
+    background: url('bg.jpg') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+}
+
+.navbar {
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+.cards{
+    margin-top: 5rem;
+}
+.content {
+    padding-top: 200px;
+    flex: 1;
+}
+
+
+.tagline {
+    color: black;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.description {
+    color: rgb(56, 56, 56);
+    font-size: large;
+}
+
+.card {
+    /* background: linear-gradient(to bottom, rgba(71, 87, 178, 1), rgba(42, 64, 188, 1)); */
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.card-text {
+    color: rgba(202, 207, 225, 255);
+}
+#contact, #aboutUs, #Carousel {
+    scroll-margin-top: 80px;
+}
+/* Move the background upward on smaller screens */
+@media (max-width: 800px) {
+    .bg {
+        background-position: center top -100px;
+    }
+}
+@media (max-width: 768px) {
+    .bg {
+        background-position: center top -180px;
+    }
+}
+
+@media (max-width: 576px) {
+    .bg {
+        background-position: center top -200px;
+    }
+}

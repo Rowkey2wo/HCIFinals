@@ -1,0 +1,702 @@
+[
+    {
+      "title": "Young Woman with a Water Pitcher",
+      "creator": "Johannes Vermeer",
+      "year": 1662,
+      "image": "img/1.jpg",
+      "description": "A well-known painting by Vermeer, featuring a young woman filling a pitcher, embodying the artist's mastery of light and shadow."
+    },
+    {
+      "title": "Sadaksari-Lokeshvara Surrounded by Manifestations and Monks",
+      "creator": "Tibet",
+      "year": "late 15th century",
+      "image": "img/2.jpg",
+      "description": "A depiction of the Bodhisattva Avalokiteshvara, surrounded by monks and various manifestations, representing compassion and divine presence."
+    },
+    {
+      "title": "Abiding nowhere, the awakened mind arises",
+      "creator": "Musō Soseki",
+      "year": "early to mid-14th century",
+      "image": "img/3.jpg",
+      "description": "A conceptually significant phrase from Buddhist teachings, symbolizing the liberation of the mind from attachment."
+    },
+    {
+      "title": "The Penitence of Saint Jerome",
+      "creator": "Albrecht Dürer",
+      "year": 1496,
+      "image": "img/4.jpg",
+      "description": "A portrayal of Saint Jerome in deep penance, reflecting on his spiritual struggles and devotion."
+    },
+    {
+      "title": "Finches and Bamboo",
+      "creator": "Emperor Huizong",
+      "year": "early 12th century",
+      "image": "img/5.jpg",
+      "description": "A beautiful depiction of finches perched on bamboo, showcasing the harmony of nature in traditional Asian art."
+    },
+    {
+        "title": "The Horse Fair",
+        "creator": "Rosa Bonheur",
+        "year": 1853,
+        "image": "img/6.jpg",
+        "description": "A famous piece by Bonheur, showcasing a bustling horse market with her keen attention to detail and motion."
+    },
+    {
+        "title": "Cardinal Fernando Niño de Guevara (1541–1609)",
+        "creator": "El Greco (Domenikos Theotokopoulos)",
+        "year": "ca. 1600",
+        "image": "img/7.jpg",
+        "description": "A portrait of Cardinal Fernando Niño de Guevara, highlighting his dignified and regal bearing."
+    },
+    {
+        "title": "Comtesse de la Châtre (Marie Charlotte Louise Perrette Aglaé Bontemps, 1762–1848)",
+        "creator": "Elisabeth Louise Vigée Le Brun",
+        "year": "1789",
+        "image": "img/8.jpg",
+        "description": "A detailed portrait of Comtesse de la Châtre, capturing the elegance of the French aristocracy."
+    },
+    {
+        "title": "Clothing the Naked",
+        "creator": "Michiel Sweerts",
+        "year": "ca. 1661",
+        "image": "img/9.jpg",
+        "description": "An evocative piece representing the theme of modesty, juxtaposing nudity with the act of covering."
+    },
+    {
+        "title": "The Thomas Hunt and the America",
+        "creator": "James Bard",
+        "year": "1852",
+        "image": "img/10.jpg",
+        "description": "A piece reflecting the historical exploration and the early American experience."
+    },
+    {
+        "title": "The Abduction of Rebecca",
+        "creator": "John Everett Millais",
+        "year": 1858,
+        "image": "img/11.jpg",
+        "description": "An iconic scene from Sir Walter Scott’s novel, depicting the dramatic moment of Rebecca’s abduction."
+    },
+    {
+        "title": "The Holy Family with the Young Saint John the Baptist",
+        "creator": "Raphael",
+        "year": 1507,
+        "image": "img/12.jpg",
+        "description": "A serene portrayal of the Holy Family with the young Saint John the Baptist, displaying Raphael’s idealized beauty."
+    },
+    {
+        "title": "Virgin and Child with Saint Anne",
+        "creator": "Leonardo da Vinci",
+        "year": "1519-1520",
+        "image": "img/13.jpg",
+        "description": "An intimate and powerful depiction of the Virgin and Child with Saint Anne, demonstrating Leonardo’s mastery of emotion and detail."
+    },
+    {
+        "title": "Broken Eggs",
+        "creator": "Jean-Baptiste Greuze",
+        "year": "1756",
+        "image": "img/14.jpg",
+        "description": "A still life painting depicting broken eggs, symbolizing fragility and impermanence."
+    },
+    {
+        "title": "A Stallion",
+        "creator": "George Stubbs",
+        "year": 1762,
+        "image": "img/15.jpg",
+        "description": "A majestic and highly detailed portrait of a stallion, showcasing Stubbs’ renowned equine painting skills."
+    },
+    {
+        "title": "Tommaso di Folco Portinari (1428–1501); Maria Portinari (Maria Maddalena Baroncelli, born 1456)",
+        "creator": "Hans Memling",
+        "year": "ca. 1470",
+        "image": "img/16.jpg",
+        "description": "A Renaissance portrait of Tommaso di Folco Portinari and his wife Maria, illustrating their status and piety."
+    },
+    {
+        "title": "Young Husband: First Marketing",
+        "creator": "Lilly Martin Spencer",
+        "year": "1854",
+        "image": "img/17.jpg",
+        "description": "An early 20th-century piece depicting the life of a young husband engaged in business or commerce."
+    },
+    {
+        "title": "The Lovers",
+        "creator": "René Magritte",
+        "year": 1928,
+        "image": "img/18.jpg",
+        "description": "A surrealist painting by Magritte, featuring two lovers with their heads obscured, evoking themes of love and separation."
+    },
+    {
+        "title": "Portrait of a Young Man",
+        "creator": "Raphael",
+        "year": 1514,
+        "image": "img/19.jpg",
+        "description": "A striking portrait by Raphael, showcasing his ability to capture personality and grace."
+    },
+    {
+        "title": "The Concourse of the Birds, Folio 11r from a Mantiq al-Tayr (Language of the Birds)",
+        "creator": "Attar of Nishapur",
+        "year": "13th Century",
+        "image": "img/20.jpg",
+        "description": "A beautifully illustrated manuscript page depicting birds representing spiritual journeys, drawn from the Persian classic."
+    },
+    {
+        "title": "The Harvesters",
+        "creator": "Pieter Bruegel the Elder",
+        "year": 1565,
+        "image": "img/21.jpg",
+        "description": "A vivid depiction of rural life, showing peasants harvesting crops in the height of summer, filled with detailed landscape and figures."
+    },
+    {
+        "title": "Rubens, Helena Fourment (1614–1673), and Their Son Frans (1633–1678)",
+        "creator": "Peter Paul Rubens",
+        "year": 1636,
+        "image": "img/22.jpg",
+        "description": "A loving family portrait by Rubens, capturing his wife Helena Fourment and their son in a moment of familial tenderness."
+    },
+    {
+        "title": "The Third-Class Carriage",
+        "creator": "Honoré Daumier",
+        "year": 1862,
+        "image": "img/23.jpg",
+        "description": "A social commentary by Daumier, illustrating the hardships of lower-class passengers in the third-class railway carriage."
+    },
+    {
+        "title": "The Abduction of the Sabine Women",
+        "creator": "Jacques-Louis David",
+        "year": 1799,
+        "image": "img/24.jpg",
+        "description": "A neoclassical portrayal of the dramatic moment when Roman men abducted the Sabine women to secure their future in Rome."
+    },
+    {
+        "title": "Venus and Adonis",
+        "creator": "Peter Paul Rubens",
+        "year": 1614,
+        "image": "img/25.jpg",
+        "description": "A vibrant, sensual depiction by Rubens of the mythological lovers Venus and Adonis, filled with emotion and beauty."
+    },
+    {
+        "title": "The Rest on the Flight into Egypt",
+        "creator": "Georges de La Tour",
+        "year": 1645,
+        "image": "img/26.jpg",
+        "description": "A serene and intimate depiction of the Holy Family resting during their flight into Egypt, illuminated by soft candlelight."
+    },
+    {
+        "title": "The Annunciation",
+        "creator": "Leonardo da Vinci",
+        "year": 1472,
+        "image": "img/27.jpg",
+        "description": "A masterpiece by da Vinci, capturing the moment of the Annunciation with delicate attention to the figures and light."
+    },
+    {
+        "title": "Francesco d'Este (born ca. 1429, died after 1486)",
+        "creator": "Rogier van der Weyden",
+        "year": "ca. 1460",
+        "image": "img/28.jpg",
+        "description": "A portrait of Francesco d'Este, likely commissioned to reflect the noble stature and power of the subject."
+    },
+    {
+        "title": "Hayne Hudjihini, Eagle of Delight",
+        "creator": "Henry Inman",
+        "year": "1832–33",
+        "image": "img/29.jpg",
+        "description": "A symbolic portrait of Hayne Hudjihini, a Native American leader, representing strength and spiritual connection to nature."
+    },
+    {
+        "title": "Portrait of a Carthusian",
+        "creator": "Petrus Christus",
+        "year": "1446",
+        "image": "img/30.jpg",
+        "description": "A quiet and reflective portrait of a Carthusian monk, embodying the order's commitment to solitude and contemplation."
+    },
+    {
+        "title": "Thousand-Armed Chenresi, a Cosmic Form of the Bodhisattva Avalokiteshvara",
+        "creator": "Tibet",
+        "year": "14th century",
+        "image": "img/31.jpg",
+        "description": "A mesmerizing representation of Chenresi, the bodhisattva of compassion, with a thousand arms, symbolizing boundless mercy."
+    },
+    {
+        "title": "Heart of the Andes",
+        "creator": "Frederic Edwin Church",
+        "year": 1859,
+        "image": "img/32.jpg",
+        "description": "A grand and romantic landscape painting depicting the Andes mountains, showcasing Church's mastery of natural detail and light."
+    },
+    {
+        "title": "Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)",
+        "creator": "Jacques-Louis David",
+        "year": 1788,
+        "image": "img/33.jpg",
+        "description": "A famous portrait of the French chemist Antoine Lavoisier and his wife Marie Anne, depicting them in the midst of scientific discovery."
+    },
+    {
+        "title": "Portrait of the Indian Monk Atisha",
+        "creator": "Tibet",
+        "year": "early to mid-12th century",
+        "image": "img/34.jpg",
+        "description": "A dignified portrait of the Indian monk Atisha, a key figure in the spread of Buddhism to Tibet."
+    },
+    {
+        "title": "Venus and Cupid",
+        "creator": "Peter Paul Rubens",
+        "year": 1635,
+        "image": "img/35.jpg",
+        "description": "A sensuous and playful depiction of the love between Venus and her son Cupid, filled with rich colors and movement."
+    },
+    {
+        "title": "Juan de Pareja (ca. 1608–1670)",
+        "creator": "Diego Velázquez",
+        "year": 1650,
+        "image": "img/36.jpg",
+        "description": "A powerful portrait by Velázquez of his servant Juan de Pareja, capturing the humanity and dignity of the subject."
+    },
+    {
+        "title": "Manuel Osorio Manrique de Zuñiga (1784–1792)",
+        "creator": "Francisco de Goya",
+        "year": 1788,
+        "image": "img/37.jpg",
+        "description": "A formal portrait of a young Spanish aristocrat, Manuel Osorio, by Goya, showcasing the innocence and vulnerability of childhood."
+    },
+    {
+        "title": "Rama Releases the Demon Spies Shuka and Sarana: Folio from the Siege of Lanka series",
+        "creator": "Manaku",
+        "year": "ca. 1725",
+        "image": "img/38.jpg",
+        "description": "An illustration from the Ramayana epic, depicting the heroic figure of Rama freeing the demon spies."
+    },
+    {
+        "title": "The Last Communion of Saint Jerome",
+        "creator": "Caravaggio",
+        "year": 1606,
+        "image": "img/39.jpg",
+        "description": "A dramatic and emotional scene showing Saint Jerome at the moment of his last communion, painted with Caravaggio's signature realism."
+    },
+    {
+        "title": "Joan of Arc",
+        "creator": "Sir John Everett Millais",
+        "year": 1865,
+        "image": "img/40.jpg",
+        "description": "A poignant portrayal of the French heroine Joan of Arc, captured in a moment of intense spiritual devotion."
+    },
+    {
+        "title": "Self-Portrait with Two Pupils, Marie Gabrielle Capet (1761–1818) and Marie Marguerite Carraux de Rosemond (1765–1788)",
+        "creator": "Adélaïde Labille-Guiard",
+        "year": 1785,
+        "image": "img/41.jpg",
+        "description": "A self-portrait by the artist with two of her pupils, reflecting the role of women in the art world during the French Revolution."
+    },
+    {
+        "title": "The Kangxi Emperor's Southern Inspection Tour, Scroll Three: Ji'nan to Mount Tai",
+        "creator": "Wang Hui",
+        "year": "datable to 1698",
+        "image": "img/42.jpg",
+        "description": "A monumental scroll painting depicting the Emperor's Southern Inspection Tour, showcasing the grandeur and power of the Qing dynasty."
+    },
+    {
+        "title": "Bridge over a Pond of Water Lilies",
+        "creator": "Claude Monet",
+        "year": 1899,
+        "image": "img/43.jpg",
+        "description": "One of Monet's iconic water lily series, capturing the tranquility and beauty of his garden at Giverny with a graceful bridge."
+    },
+    {
+        "title": "Madame Georges Charpentier (Marguerite-Louise Lemonnier, 1848–1904) and Her Children, Georgette-Berthe (1872–1945) and Paul-Emile-Charles (1875–1895)",
+        "creator": "Pierre-Auguste Renoir",
+        "year": 1879,
+        "image": "img/44.jpg",
+        "description": "A family portrait of Madame Charpentier and her children, painted by Renoir with a warm and intimate atmosphere."
+    },
+    {
+        "title": "The Rocky Mountains, Lander's Peak",
+        "creator": "Albert Bierstadt",
+        "year": 1863,
+        "image": "img/45.jpg",
+        "description": "A grand and breathtaking landscape painting of the Rocky Mountains, showcasing Bierstadt’s mastery of light and scale."
+    },
+    {
+        "title": "Young Lady in 1866",
+        "creator": "Gustave Courbet",
+        "year": 1866,
+        "image": "img/46.jpg",
+        "description": "A captivating portrait by Courbet, showcasing a young woman from the 19th century with a sense of natural elegance."
+    },
+    {
+        "title": "Old Trees, Level Distance",
+        "creator": "John Constable",
+        "year": 1826,
+        "image": "img/47.jpg",
+        "description": "A serene landscape by Constable, capturing the timeless beauty of old trees against a distant horizon."
+    },
+    {
+        "title": "Inferno",
+        "creator": "Franz von Stuck",
+        "year": "1908",
+        "image": "img/48.jpg",
+        "description": "A fiery and intense representation of the concept of hell, possibly inspired by Dante’s Divine Comedy."
+    },
+    {
+        "title": "Saint Jerome as Scholar",
+        "creator": "Albrecht Dürer",
+        "year": 1521,
+        "image": "img/49.jpg",
+        "description": "A highly detailed portrait of Saint Jerome, depicted as a scholar, with Dürer's precise rendering of the figure and the scholarly environment."
+    },
+    {
+        "title": "Study of a Young Woman",
+        "creator": "John Singer Sargent",
+        "year": 1905,
+        "image": "img/50.jpg",
+        "description": "A graceful study of a young woman, painted by Sargent with his signature fluid brushstrokes and keen attention to character."
+    },
+    {
+        "title": "The Death of Socrates",
+        "creator": "Jacques-Louis David",
+        "year": 1787,
+        "image": "img/51.jpg",
+        "description": "A dramatic and emotionally charged scene showing Socrates’ final moments before his execution, captured with neoclassical precision."
+    },
+    {
+        "title": "Marble female figure",
+        "creator": "Bastis Master",
+        "year": "2600–2400 BCE",
+        "image": "img/52.jpg",
+        "description": "A classical marble sculpture representing a female figure, embodying the beauty and elegance of ancient Greek or Roman art."
+    },
+    {
+        "title": "A Woman Seated beside a Vase of Flowers (Madame Paul Valpinçon?)",
+        "creator": "Élisabeth Louise Vigée Le Brun",
+        "year": 1784,
+        "image": "img/53.jpg",
+        "description": "A portrait of a woman seated gracefully next to a vase of flowers, painted by Vigée Le Brun with refined elegance and delicate detail."
+    },
+    {
+        "title": "The Immaculate Conception",
+        "creator": "Bartolomé Esteban Murillo",
+        "year": 1678,
+        "image": "img/54.jpg",
+        "description": "A serene and luminous depiction of the Virgin Mary, symbolizing purity and divine grace, by Spanish artist Murillo."
+    },
+    {
+        "title": "Study for 'A Sunday on La Grande Jatte'",
+        "creator": "Georges Seurat",
+        "year": 1884,
+        "image": "img/55.jpg",
+        "description": "A preliminary study for Seurat's famous pointillist masterpiece, showcasing his detailed planning of color and form."
+    },
+    {
+        "title": "The Bodmer Oak, Fontainebleau Forest",
+        "creator": "Jean-Baptiste-Camille Corot",
+        "year": 1837,
+        "image": "img/56.jpg",
+        "description": "A tranquil landscape capturing the grandeur of the Bodmer Oak, located in the Fontainebleau Forest, painted by Corot."
+    },
+    {
+        "title": "The Crucifixion with Saints and a Donor",
+        "creator": "Jan van Eyck",
+        "year": 1440,
+        "image": "img/57.jpg",
+        "description": "A richly detailed altarpiece depicting the crucifixion of Christ, surrounded by saints and a donor, painted in van Eyck’s iconic style."
+    },
+    {
+        "title": "Garden at Sainte-Adresse",
+        "creator": "Claude Monet",
+        "year": 1867,
+        "image": "img/58.jpg",
+        "description": "A beautiful depiction of a garden in Sainte-Adresse, painted by Monet, showcasing his mastery of light and nature."
+    },
+    {
+        "title": "Circus Sideshow (Parade de cirque)",
+        "creator": "Georges Seurat",
+        "year": 1887,
+        "image": "img/59.jpg",
+        "description": "A lively and colorful depiction of a circus parade, captured with Seurat’s signature pointillist technique."
+    },
+    {
+        "title": "The Crucifixion with the Virgin and Saint John",
+        "creator": "Giovanni Bellini",
+        "year": 1450,
+        "image": "img/60.jpg",
+        "description": "A solemn and emotional portrayal of the crucifixion, with the Virgin Mary and Saint John the Evangelist in mourning."
+    },
+    {
+        "title": "Irises",
+        "creator": "Vincent van Gogh",
+        "year": 1889,
+        "image": "img/61.jpg",
+        "description": "A vibrant and textured painting of irises, capturing van Gogh’s love for nature and his energetic brushstrokes."
+    },
+    {
+        "title": "Biographies of Lian Po and Lin Xiangru",
+        "creator": "Huang Tingjian",
+        "year": "ca. 1095",
+        "image": "img/62.jpg",
+        "description": "A historical Chinese painting depicting the legendary figures Lian Po and Lin Xiangru, celebrated for their diplomatic wisdom."
+    },
+    {
+        "title": "Young Woman Seated on a Sofa",
+        "creator": "Pierre-Auguste Renoir",
+        "year": 1873,
+        "image": "img/63.jpg",
+        "description": "A charming portrait of a young woman seated on a sofa, rendered with Renoir's trademark softness and light."
+    },
+    {
+        "title": "Gertrude Stein",
+        "creator": "Pablo Picasso",
+        "year": 1905,
+        "image": "img/64.jpg",
+        "description": "A striking portrait of the writer Gertrude Stein, painted by Picasso during his early period, characterized by bold forms and colors."
+    },
+    {
+        "title": "The Triumph of Fame; (reverse) Impresa of the Medici Family and Arms of the Medici and Tornabuoni Families",
+        "creator": "Andrea Mantegna",
+        "year": 1497,
+        "image": "img/65.jpg",
+        "description": "An allegorical painting depicting the triumph of fame, linked to the Medici family’s power, painted by Mantegna."
+    },
+    {
+        "title": "The Spanish Singer",
+        "creator": "Diego Velázquez",
+        "year": 1618,
+        "image": "img/66.jpg",
+        "description": "A lively portrait of a Spanish singer, painted by Velázquez, highlighting his ability to capture human expression and detail."
+    },
+    {
+        "title": "Oedipus and the Sphinx",
+        "creator": "Jean-Auguste-Dominique Ingres",
+        "year": 1808,
+        "image": "img/67.jpg",
+        "description": "A neoclassical painting depicting the myth of Oedipus and the Sphinx, showcasing Ingres' precision and mastery of form."
+    },
+    {
+        "title": "Wheat Field with Cypresses",
+        "creator": "Vincent van Gogh",
+        "year": 1889,
+        "image": "img/68.jpg",
+        "description": "A bold and expressive landscape of a wheat field with towering cypress trees, painted by van Gogh during his time in Saint-Rémy-de-Provence."
+    },
+    {
+        "title": "Autumn Rhythm (Number 30)",
+        "creator": "Jackson Pollock",
+        "year": 1950,
+        "image": "img/69.jpg",
+        "description": "A powerful and dynamic abstract expressionist painting by Pollock, filled with rhythmic drips and splatters of paint."
+    },
+    {
+        "title": "Hagar in the Wilderness",
+        "creator": "Gustave Doré",
+        "year": 1875,
+        "image": "img/70.jpg",
+        "description": "A dramatic illustration by Doré of the biblical story of Hagar and her son Ishmael in the wilderness."
+    },
+    {
+        "title": "Whalers",
+        "creator": "Winslow Homer",
+        "year": 1873,
+        "image": "img/71.jpg",
+        "description": "A vivid and action-packed scene depicting a group of whalers, showcasing Homer’s skill in capturing human emotion and movement."
+    },
+    {
+        "title": "The Last Supper",
+        "creator": "Leonardo da Vinci",
+        "year": 1495,
+        "image": "img/72.jpg",
+        "description": "A monumental depiction of Jesus' final meal with his disciples, celebrated for its composition and emotional intensity."
+    },
+    {
+        "title": "A Hunting Scene",
+        "creator": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+        "year": "ca. 1494–1500",
+        "image": "img/73.jpg",
+        "description": "A lively scene capturing the thrill of the hunt, emphasizing movement and natural surroundings."
+    },
+    {
+        "title": "The Annunciation",
+        "creator": "Fra Angelico",
+        "year": 1430,
+        "image": "img/74.jpg",
+        "description": "A serene depiction of the angel Gabriel delivering the news to Mary, known for its grace and spiritual calm."
+    },
+    {
+        "title": "Mars and Venus United by Love",
+        "creator": "Paolo Veronese",
+        "year": 1570,
+        "image": "img/75.jpg",
+        "description": "An allegorical painting celebrating the union of war and love through rich color and opulent composition."
+    },
+    {
+        "title": "Madonna and Child",
+        "creator": "Giotto di Bondone",
+        "year": 1310,
+        "image": "img/76.jpg",
+        "description": "An influential depiction of the Virgin Mary holding the Christ child, pioneering realism in religious art."
+    },
+    {
+        "title": "Madonna and Child Enthroned with Saints",
+        "creator": "Raphael",
+        "year": 1504,
+        "image": "img/77.jpg",
+        "description": "A harmonious composition placing Madonna and Child amid adoring saints, displaying Raphael’s mastery of balance."
+    },
+    {
+        "title": "The Adoration of the Shepherds",
+        "creator": "Georges de La Tour",
+        "year": 1644,
+        "image": "img/78.jpg",
+        "description": "A candle-lit nativity scene emphasizing simplicity, devotion, and the warmth of faith."
+    },
+    {
+        "title": "Stela of the Steward Mentuwoser",
+        "creator": "Egyptian artist",
+        "year": "Middle Kingdom, c. 2040–1782 BCE",
+        "image": "img/79.jpg",
+        "description": "An ancient Egyptian stela commemorating Mentuwoser, rich with hieroglyphic inscriptions and symbolic carvings."
+    },
+    {
+        "title": "Madonna and Child",
+        "creator": "Sandro Botticelli",
+        "year": 1480,
+        "image": "img/80.jpg",
+        "description": "A tender portrayal of Madonna and Child in Botticelli’s distinctively elegant and lyrical style."
+    },
+    {
+        "title": "Angels Swinging Censers",
+        "creator": "Master of the St. Lucy Legend",
+        "year": "15th century",
+        "image": "img/81.jpg",
+        "description": "Angelic figures performing rituals, delicately illustrated with late medieval flair."
+    },
+    {
+        "title": "The Musicians",
+        "creator": "Caravaggio",
+        "year": 1595,
+        "image": "img/82.jpg",
+        "description": "A captivating work showing young men playing music, blending realism with sensual overtones."
+    },
+    {
+        "title": "Pirate Jenny",
+        "creator": "John Bratby",
+        "year": 1955,
+        "image": "img/83.jpg",
+        "description": "A gritty, raw portrayal inspired by the character Pirate Jenny from Brecht’s ‘Threepenny Opera’."
+    },
+    {
+        "title": "Young Sailor II",
+        "creator": "Henri Matisse",
+        "year": 1906,
+        "image": "img/84.jpg",
+        "description": "A vivid, bold portrait of a young sailor showcasing Matisse’s expressive color palette."
+    },
+    {
+        "title": "Aristotle with a Bust of Homer",
+        "creator": "Rembrandt",
+        "year": 1653,
+        "image": "img/85.jpg",
+        "description": "Philosopher Aristotle reflects thoughtfully on Homer’s legacy, rendered with Rembrandt’s profound psychological insight."
+    },
+    {
+        "title": "Lucas van Uffel",
+        "creator": "Anthony van Dyck",
+        "year": 1622,
+        "image": "img/86.jpg",
+        "description": "A portrait of a wealthy merchant, highlighting van Dyck’s sophisticated handling of fabrics and character."
+    },
+    {
+        "title": "Madame Cézanne (Hortense Fiquet, 1850–1922) in a Red Dress",
+        "creator": "Paul Cézanne",
+        "year": 1888,
+        "image": "img/87.jpg",
+        "description": "A solemn yet intimate portrait of Cézanne’s wife, demonstrating his study of form and color."
+    },
+    {
+        "title": "The Baptism of Christ",
+        "creator": "Piero della Francesca",
+        "year": 1450,
+        "image": "img/88.jpg",
+        "description": "A fresco renowned for its serene geometry and divine light, depicting John baptizing Jesus."
+    },
+    {
+        "title": "The Card Players",
+        "creator": "Paul Cézanne",
+        "year": 1895,
+        "image": "img/89.jpg",
+        "description": "A meditative painting of peasants quietly playing cards, capturing human gravity through subtle structure."
+    },
+    {
+        "title": "The House of Bijapur",
+        "creator": "Indian Mughal artist",
+        "year": "17th century",
+        "image": "img/90.jpg",
+        "description": "A courtly painting representing one of the grandest families of Mughal India."
+    },
+    {
+        "title": "The Adoration of the Magi",
+        "creator": "Gentile da Fabriano",
+        "year": 1423,
+        "image": "img/91.jpg",
+        "description": "A lavish and detailed depiction of the Three Kings’ journey to honor the newborn Christ."
+    },
+    {
+        "title": "The Toilette of Venus",
+        "creator": "François Boucher",
+        "year": 1751,
+        "image": "img/92.jpg",
+        "description": "An ornate rococo masterpiece portraying Venus in an opulent and sensual setting."
+    },
+    {
+        "title": "The Abduction of the Sabine Women",
+        "creator": "Nicolas Poussin",
+        "year": 1637,
+        "image": "img/93.jpg",
+        "description": "A classical interpretation of the legendary Roman abduction, choreographed with dynamic elegance."
+    },
+    {
+        "title": "The Death of Socrates",
+        "creator": "Jacques-Louis David",
+        "year": 1787,
+        "image": "img/94.jpg",
+        "description": "A dramatic neoclassical painting showing Socrates’ final moments, emphasizing reason and sacrifice."
+    },
+    {
+        "title": "The Rocky Mountains, Lander's Peak",
+        "creator": "Albert Bierstadt",
+        "year": 1863,
+        "image": "img/95.jpg",
+        "description": "An awe-inspiring landscape portraying the grandeur of the American West with luminous majesty."
+    },
+    {
+        "title": "The Spanish Singer",
+        "creator": "Édouard Manet",
+        "year": 1860,
+        "image": "img/96.jpg",
+        "description": "A vibrant early work by Manet, mixing realism and exoticism in the figure of a Spanish guitarist."
+    },
+    {
+        "title": "Oedipus and the Sphinx",
+        "creator": "Jean-Auguste-Dominique Ingres",
+        "year": 1808,
+        "image": "img/97.jpg",
+        "description": "An intense, enigmatic confrontation between the Greek hero and the Sphinx rendered in neoclassical style."
+    },
+    {
+        "title": "Wheat Field with Cypresses",
+        "creator": "Vincent van Gogh",
+        "year": 1889,
+        "image": "img/98.jpg",
+        "description": "One of Van Gogh’s luminous landscapes, showcasing swirling skies and vibrant nature."
+    },
+    {
+        "title": "Autumn Rhythm (Number 30)",
+        "creator": "Jackson Pollock",
+        "year": 1950,
+        "image": "img/99.jpg",
+        "description": "A quintessential drip painting evoking dynamic movement and raw energy through abstraction."
+    },
+    {
+        "title": "Hagar in the Wilderness",
+        "creator": "Camille Corot",
+        "year": 1835,
+        "image": "img/100.jpg",
+        "description": "A tender portrayal of Hagar’s biblical plight, blending landscape with poignant emotion."
+    }
+]

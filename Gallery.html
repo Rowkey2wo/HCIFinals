@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link rel="stylesheet" href="gallery.css">
+    <title>Famous Paintings</title>
+</head>
+
+<body>
+    <div class="bg">
+        <div class="container mt-5 d-flex flex-column">
+            <h1 class="tagline align-items-start mt-5">ART<br>STUDIO<br>WIKIPEDIA</h1>
+
+            <div class="container-fluid px-0 my-5">
+                <svg class="w-100 h-auto d-block" viewBox="0 0 300 40" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+                    <!-- Left shape -->
+                    <polygon class="shape" points="0,23 100,23 110,15 100,25 0,25" />
+                    <!-- Right shape -->
+                    <polygon class="shape" points="300,23 200,23 190,15 200,25 300,25" />
+                    <!-- Center circles -->
+                    <circle class="shape" cx="150" cy="20" r="4" />
+                    <circle class="shape" cx="130" cy="20" r="2" />
+                    <circle class="shape" cx="170" cy="20" r="2" />
+                </svg>
+            </div>
+
+            <div class="row-gallery rounded-3 p-2 p-md-5 p-sm-2" id="paintings-container">
+                <div class="search-box rounded-3 d-flex flex-column-reverse flex-sm-row mb-5 h-auto py-3 border gap-2">
+                    <div class="btn-group ms-3">
+                        <button class="btn btn-transparent order-0 me-2 border border-light text-white dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fa-solid fa-filter text-white"></i>
+                        </button>
+                        <ul class="dropdown-menu p-4">
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="radioDefault" id="radioDefault1">
+                                <label class="form-check-label" for="radioDefault1"><b>A-Z</b></label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="radioDefault" id="radioDefault2">
+                                <label class="form-check-label" for="radioDefault2"><b>Z-A</b></label>
+                            </div>
+                            <button id="applyFilterBtn" class="btn btn-primary btn-sm w-100 mt-3">SELECT FILTER</button>
+                        </ul>
+                    </div>
+                    
+
+                    <div class="w-100 d-flex order-1 ms-3">
+                        <button class="btn bowton bg-transparent border border-light h-100" type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapseWidthExample"
+                            aria-expanded="false" aria-controls="collapseWidthExample">
+                            <i class="fa-solid fa-magnifying-glass text-white"></i>
+                        </button>
+                        <div class="collapse w-100" id="collapseWidthExample">
+                            <input type="text" class="search bg-light ms-2 p-2 bg-transparent text-white w-75" placeholder="Search">
+                        </div>
+                    </div>
+
+                </div>
+                
+                <!-- Pinterest-style Bootstrap grid will be inserted here by JavaScript -->
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-2">
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="paintingModal" tabindex="-1" aria-labelledby="paintingModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content d-flex">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-white" id="paintingModalLabel"></h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <img src="" id="paintingModalImage" class="img-fluid mb-5 d-block mx-auto" alt="">
+                        <p class="text-white description" id="paintingModalDescription"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+</html>
